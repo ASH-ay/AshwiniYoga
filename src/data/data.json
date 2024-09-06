@@ -1,0 +1,176 @@
+{
+  "Header": {
+    "title": "Find Balance, Strength, and Serenity",
+    "paragraph": "Your Path to Wellness Starts Here."
+  },
+  "About": {
+    "paragraph": "Since 2016, Ashwini's Yoga Classes has been a sanctuary for holistic wellness, led by Ashwini, an experienced practitioner and dedicated instructor. Our studio offers a transformative yoga experience, blending ancient wisdom with modern practices. Beyond physical postures, we emphasize breathwork, meditation, and mindfulness to nourish mind, body, and spirit.    Our inclusive community welcomes practitioners of all levels, fostering support, connection, and growth. Guided by Ashwini's expertise, students explore their edges, overcome challenges, and celebrate progress together. Committed to providing a safe and nurturing environment, we prioritize each student's journey toward well-being.",
+    "Why": [
+      "Experienced Instructor",
+      "Community Connection",
+      "Holistic Approach",
+      "Mindful Practice"
+    ],
+    "Why2": [
+      "Diverse Offerings",
+      "Expert Instruction",
+      "Positive Atmosphere",
+      "Continuous Learning"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Ashwini ma'am, a knowledgeable and passionate instructor, ensures sessions benefit body, mind, and spirit, fostering rejuvenation.\"",
+      "name": "Meghana"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The Instructor fosters disciplined, structured classes, facilitating deep mind-body-soul connections, fostering daily learning experiences.\"",
+      "name": "Suhas"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The serene ambiance, skilled instructors, and diverse range of classes catered to all levels. I left each session feeling rejuvenated and centered.\"",
+      "name": "Shravan"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\" I'm Regular at Chaitanya Yoga Center for months now, praising its tranquil atmosphere and skilled instructors leading varied practices.\"",
+      "name": "Padmini"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"From the moment you step inside, you're enveloped in a sense of calm and positivity. The variety of classes offered ensures there's something for everyone\"",
+      "name": "Mallika"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\" I've noticed significant improvements in my strength, flexibility, and overall well-being since I started practicing here. Highly recommend giving it a try!\"",
+      "name": "Ashwini"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Ashwini",
+      "job": "Instructor"
+    }
+  ],
+  "Contact": {
+    "address": "293, Dodda Banaswadi Main Rd, near Sree Ayyappa Temple, MS Nagar Post, Subramanyapalya, Banaswadi, Bengaluru, Karnataka 560043 ",
+    "phone": "+91 9741310646",
+    "email": "ashwiniigowda1976@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-arrows-alt",
+      "title": "Flexibility",
+      "text": "Enhance flexibility and mobility, promoting a greater range of motion and preventing injuries."
+    },
+    {
+      "icon": "fa fa-eye",
+      "title": "Mindfulness",
+      "text": "Improve mental clarity and focus through mindfulness practices and enhancing overall well-being."
+    },
+    {
+      "icon": "fa fa-thumbs-up",
+      "title": "Strength",
+      "text": "Strengthen muscles and improve posture, fostering a healthier and more aligned body."
+    },
+    {
+      "icon": "fa fa-user ",
+      "title": "Harmony",
+      "text": "Cultivate inner peace and tranquility, fostering a deep sense of inner calm and balance amidst life's challenges."
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Heart Health",
+      "text": "Promote cardiovascular health and circulation, supporting a stronger heart and overall vitality."
+    },
+    {
+      "icon": "fa fa-leaf",
+      "title": "Detoxification",
+      "text": "Facilitate detoxification through breathwork and movement, aiding in the elimination of toxins and promoting overall wellness."
+    },
+    {
+      "icon": "fa fa-smile-o",
+      "title": "Joy",
+      "text": "Foster a sense of joy and positivity, uplifting mood and enhancing emotional well-being."
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "title": "Timelessness",
+      "text": "Experience a timeless connection to self and surroundings, transcending daily stressors and finding presence in the moment."
+    }
+  ]
+ 
+}

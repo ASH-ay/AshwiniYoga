@@ -1,0 +1,86 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+@media screen and (min-width: 700px) {
+ .thumbnail{
+  display: block;
+    margin: 0 auto;
+ }
+}
+
+.pricing-table {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pricing-column {
+  background: linear-gradient(45deg, #f4f6f7, #ffffff); /* Applying gradient background */
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s, box-shadow 0.3s, background 0.3s; /* Adding transition for smooth hover effect */
+  margin: 10px; /* Reduced margin */
+  color: rgb(0, 0, 0); /* Setting text color to white */
+}
+
+@media (min-width: 768px) {
+  .pricing-table {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.pricing-column:hover {
+  transform: translateY(-5px); /* Adding a slight lift effect on hover */
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.pricing-column h3 {
+  font-size: 28px;
+  margin: 0.5rem 0.5rem;
+  color: black !important;
+}
+
+.pricing-column p {
+  font-size: 18px;
+  margin-bottom: 1rem;
+  color: rgb(53, 52, 52) !important;
+}
+
+.price {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+ul {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+@media (max-width: 768px) {
+  .pricing-table {
+    flex-direction: column;
+    align-items: center;
+  }
+}
